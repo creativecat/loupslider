@@ -1,1 +1,19 @@
-Initial release of loupslider.js
+/* 
+ * Initial release of loupslider.js
+*/
+
+// Current options:
+
+durationTimeOut: Time in ms the image will be shown (default: 7000)
+durationBlende: Time in ms the image will be moved (default: 1500)
+easing: Select an easing effect
+sliderBottom: space between background-images according to the bottom of the main image container (default: 30)
+opacity: opacity of images in background (value: 0 bis 1, default: 0.8)
+navigation: show optional navigation true/false (default: true)
+random: optional reorder images randomly on startup true/false (default: false)
+
+// Used fixed classes
+
+.left_nav, .right_nav: navigation on the corners of main container
+.nav_point: navigation at the middle beneath the main container (.nav_point.active for current navigation).
+.cc_loupslider_shadow: shadow of main container
