@@ -17,3 +17,5 @@ random: optional reorder images randomly on startup true/false (default: false)
 .left_nav, .right_nav: navigation on the corners of main container
 .nav_point: navigation at the middle beneath the main container (.nav_point.active for current navigation).
 .cc_loupslider_shadow: shadow of main container
+
+//
