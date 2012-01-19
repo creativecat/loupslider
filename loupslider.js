@@ -1,3 +1,5 @@
+// test
+
 (function ($) {
 	$.fn.loupslider = function (options) {
 		var defaults = {
